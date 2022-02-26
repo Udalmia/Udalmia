@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
-- 👨‍💻 All of my projects are available at [https://clone-epikam6h9-udalmia.vercel.app/](https://clone-epikam6h9-udalmia.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-udalmia.vercel.app/](https://portfolio-udalmia.vercel.app/)
 
 - 💬 Ask me about **react,JS,HTML, MongoDB,expressJS,CSS**
 
